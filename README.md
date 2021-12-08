@@ -27,4 +27,5 @@
 * Created a new target variable which accounted for total reactions, comments, and shares of a post.
 * Random forest gave a better prediction, which is due to presence of outliers/extreme values in our dataset. Decision tree models are not affected by outliers.
 * For a post: the best type of post is video, best month is 5th, best time of the day is 7am to 11am, and best day is Wednesday.
-* More data such as geographical location can help us make a better strategy for a post. We can also do an analysis of the sentiment of a user by looking at the type of reaction. * Comments can be extracted and we can extract the common topic of discussion using NLP. We can also extract the length of the video, it can help us in engaging a user more.
+* More data such as geographical location can help us make a better strategy for a post. We can also do an analysis of the sentiment of a user by looking at the type of reaction.
+* Comments can be extracted and we can extract the common topic of discussion using NLP. We can also extract the length of the video, it can help us in engaging a user more.
